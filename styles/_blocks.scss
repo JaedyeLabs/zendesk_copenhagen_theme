@@ -78,11 +78,13 @@
 
   &-item-title {
     margin-bottom: 0;
-    font-size: 16px;
+    font-size: 20px;
+    font-weight: bold;
   }
 
   &-item-description {
     margin: 0;
+    font-size: 12px;
   }
 
   &-item-description:not(:empty) {
